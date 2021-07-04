@@ -25,6 +25,7 @@ section {
 .two {
   background: #9ade6e;
   /* width:100vw; */
+  height:1600px;
 }
 
 .three {
@@ -74,6 +75,11 @@ section {
 .container-zero{
   width:100vw;
 }
+.embedpdf{
+  margin-left: 340px;
+  width:640px;
+ height:600px;
+}
 
 .slider img{
   width: 550px;
@@ -107,6 +113,11 @@ section {
   }
   .slider{
     height: 100vh;
+  }
+  .embedpdf{
+    margin-left: 50px;
+    width:400px;
+   height:500px;
   }
 
 }
@@ -351,9 +362,19 @@ a:link {
     display: block;
     width: 95%;
     justify-content: center;
+
     /* height: 100%; */
   }
-  
+  .pro1{
+    width: 400px;
+    height:300px;
+  }
+  .Car{
+    margin-top: 220px;
+  }
+  .two{
+    height: 2000px;
+  }
   
   
 
@@ -416,4 +437,9 @@ a:link {
   height: 620px;
   width: 100%;
   
+}
+
+.pro1{
+  /* width: 500px; */
+  height:300px;
 }

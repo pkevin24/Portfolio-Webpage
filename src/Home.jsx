@@ -77,8 +77,8 @@ function Home() {
             </section>
             </Route>
             <Route exact path='/contactfeedback' component={Contact}>
-            <section className="section seven">
-                <div className="container-seven">
+            <section className="section four">
+                <div className="container-four">
                 
                     <Contact/>
                 </div>
