@@ -1,2 +1,2 @@
 # Portfolio
- Created a portfolio webpage using ReactJs
+Built a portfolio webpage using ReactJs
